@@ -1,0 +1,5 @@
+{
+  "name": "NeMessenger",
+  "description": "A real-time messaging application with groups, channels, and online status.",
+  "requestFramePermissions": []
+}
